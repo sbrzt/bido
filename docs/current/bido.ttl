@@ -118,7 +118,9 @@ For instance, in the following example we assign the 2014 Impact Factor to the J
 
 The module of BiDO for describing research career chategories allows one to assign specific categories describing kinds of research careers to people, as described in the following paper:
 
-    Osborne, F., Peroni, S., Motta, E. (2014). Clustering Citation Distributions for Semantic Categorization and Citation Prediction. In Zhao, J., van Erp, M., Keßler, C., Kauppinen, T., van Ossenbruggen, J., van Hage, W. R. (Eds.), Proceedings of the 4th Workshop on Linked Science (LISC 2014), CEUR Workshop Proceedings 1282: 24–35. Aachen, Germany: CEUR-WS.org. http://ceur-ws.org/Vol-1282/lisc2014_submission_9.pdf
+    Osborne, F., Peroni, S., Motta, E. (2014). Clustering Citation Distributions for Semantic Categorization and Citation Prediction. 
+    In Zhao, J., van Erp, M., Keßler, C., Kauppinen, T., van Ossenbruggen, J., van Hage, W. R. (Eds.), Proceedings of the 4th Workshop 
+    on Linked Science (LISC 2014), CEUR Workshop Proceedings 1282: 24–35. Aachen, Germany: CEUR-WS.org. http://ceur-ws.org/Vol-1282/lisc2014_submission_9.pdf
 
 For instance, in the example we assign a particular research category (defined mainly by mathematical and geometrical features) to John Doe.
 
