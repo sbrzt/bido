@@ -298,7 +298,7 @@ What categorical bibliometric rankings or measures (such as conference ranks or 
     dcterms:license <http://creativecommons.org/licenses/by/4.0/> ;
     dcterms:modified "2026-08-14" ;
     dcterms:publisher <https://ror.org/00wb4mk85> ;
-    dcterms:source <https://github.com/sparontologies/bido/docs/cq.md> ;
+    dcterms:source <https://github.com/SPAROntologies/bido/blob/master/docs/cq.md> ;
     bibo:doi "https://doi.org/10.25504/FAIRsharing.d7f0a9" ;
     bibo:status <http://purl.org/ontology/bibo/status/published> ;
     vann:changes """
